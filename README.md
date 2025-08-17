@@ -109,7 +109,7 @@ This week you will start by forking or copying the template repository. This rep
 
 This course uses Visual Studio Code, but you are free to change to use anything else.
 
-* [Fork the template repository](https://github.com/paiml/rust-project-template)
+* [Fork the template repository](https://github.com/paiml/ds500-rust-project-template)
 
 **Weekly Discussion prompt:** Discuss your text editor choice and setting up the debugger. There are different debuggers available for Rust. Explain your choice.
 
