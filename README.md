@@ -2,8 +2,9 @@
 
 # Rust Bootcamp
 
-Syllabus for [Pragmatic AI Labs bootcamp](https://ds500.paiml.com/bootcamps/rust)
-* [Rubric](./rubric.md)
+<h1 align="center">Rust Bootcamp</h1>
+<h5 align="center">Syllabus for <a href="https://ds500.paiml.com/bootcamps/rust">Pragmatic AI Labs bootcamp</a></h5>
+
 
 ### Description
 
@@ -17,6 +18,9 @@ In this bootcamp, you will learn the fundamentals of Rust to produce a productio
 <details>
   <summary><b>Table of Contents</b></summary>
   <br>
+
+
+[Rubric](./rubric.md)
 
 * [Prerequisites](#prerequisites)
 * [Week 1: Setup your Development Environment](#week-1-setup-your-development-environment)
