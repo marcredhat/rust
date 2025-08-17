@@ -3,7 +3,6 @@
 # Rust Bootcamp
 
 Syllabus for [Pragmatic AI Labs bootcamp](https://ds500.paiml.com/bootcamps/rust)
-* [AIPI 561: Operationalizing Large Language Models (LLMOPs)](https://ai.meng.duke.edu/courses#operations-core)
 * [Rubric](./rubric.md)
 
 ### Description
