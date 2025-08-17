@@ -1,7 +1,5 @@
 # [![Rust Bootcamp](./.github/header.svg)](https://ds500.paiml.com/bootcamps/rust "Rust Bootcamp")
 
-# Rust Bootcamp
-
 <h1 align="center">Rust Bootcamp</h1>
 <h5 align="center">Syllabus for <a href="https://ds500.paiml.com/bootcamps/rust">Pragmatic AI Labs bootcamp</a></h5>
 
