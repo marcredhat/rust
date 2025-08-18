@@ -1,4 +1,6 @@
-# [![Rust Bootcamp](./.github/header.svg)](https://ds500.paiml.com/bootcamps/rust "Rust Bootcamp")
+<a href="https://ds500.paiml.com/bootcamps/rust" title="Rust Bootcamp" style="text-decoration: none;">
+  <img src="./.github/header.svg" alt="Rust Bootcamp">
+</a>
 
 <h1 align="center"><a href="https://ds500.paiml.com/bootcamps/rust">Rust Fundamentals</a></h1>
 <h5 align="center">Complete Syllabus and guidelines</h5>
