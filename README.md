@@ -76,7 +76,7 @@ Being able to work around and in GitHub is essential. Use these courses to get a
 
 This bootcamp requires you to build your own project based on our Rust Starter Project template repository. You will have to copy this into your own GitHub account.
 
-Use the [following template and go through its instructions when ready](https://github.com/paiml/rust-project-template)
+Use the [following template and go through its instructions when ready](https://github.com/paiml/ds500-rust-project-template)
 
 
 This bootcamp is covered with the following courses:
